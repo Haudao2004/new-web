@@ -1,3 +1,24 @@
-font-family: 'Lato', sans-serif;
+*{
+    box-sizing: border-box;
+
+}
+a:hover{
+    color:rgba(246, 35, 88, 0.5);
+    
+    
+    
+}
+a{
+    color: rgb(33, 185, 33);
+    /* cursor: pointer; */
+    text-decoration:none;
+}
+body{
+    background-image:linear-gradient(rgba(190, 235, 188, 0.4), rgba(106, 164, 184)), url(../nen1.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
 
 
